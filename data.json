@@ -1,0 +1,212 @@
+{
+  "users": {
+    "1004948341769121803": {
+      "name": "32xl",
+      "status": "online",
+      "unit": "Developer",
+      "loginTime": "٢٢‏/١١‏/٢٠٢٥، ٣:١٨:٥٨ م",
+      "lastActivityTime": "٢٢‏/١١‏/٢٠٢٥، ١:٤٣:١٨ م",
+      "money": 1000500,
+      "gamesWon": 1,
+      "gamesLost": 2,
+      "voiceTime": 0,
+      "exp": 275,
+      "achievements": [
+        "richman",
+        "firstLogin"
+      ],
+      "level": 1,
+      "totalVoiceTime": 0,
+      "points": 54
+    },
+    "1231734076839428250": {
+      "name": "7c1j",
+      "status": "offline",
+      "unit": "212",
+      "loginTime": null,
+      "lastActivityTime": "٢٢‏/١١‏/٢٠٢٥، ١:٤٣:٢٩ م",
+      "money": 0,
+      "gamesWon": 0,
+      "gamesLost": 1,
+      "voiceTime": 0,
+      "achievements": [],
+      "level": 1,
+      "exp": 15,
+      "totalVoiceTime": 0,
+      "points": 0
+    },
+    "1348093819299561482": {
+      "name": "1zh5",
+      "status": "online",
+      "unit": "P-2",
+      "loginTime": "٢٢‏/١١‏/٢٠٢٥، ٣:٢٤:٤٧ م",
+      "money": 300,
+      "points": 2,
+      "gamesWon": 1,
+      "gamesLost": 0,
+      "achievements": [
+        "firstLogin"
+      ],
+      "totalVoiceTime": 0,
+      "level": 1,
+      "exp": 95
+    },
+    "1403709128387592303": {
+      "name": "h7_27",
+      "status": "offline",
+      "unit": "بدون يونت",
+      "loginTime": null,
+      "money": 500,
+      "points": 0,
+      "gamesWon": 1,
+      "gamesLost": 0,
+      "achievements": [],
+      "totalVoiceTime": 0,
+      "level": 1,
+      "exp": 25
+    },
+    "1034494562640613426": {
+      "name": "514534",
+      "status": "offline",
+      "unit": "بدون يونت",
+      "loginTime": null,
+      "money": 0,
+      "points": 0,
+      "gamesWon": 0,
+      "gamesLost": 0,
+      "achievements": [],
+      "totalVoiceTime": 0,
+      "level": 1,
+      "exp": 20
+    },
+    "1142897056411832330": {
+      "name": "__305.",
+      "status": "offline",
+      "unit": "بدون يونت",
+      "loginTime": null,
+      "money": 0,
+      "points": 0,
+      "gamesWon": 0,
+      "gamesLost": 0,
+      "achievements": [],
+      "totalVoiceTime": 0,
+      "level": 1,
+      "exp": 20
+    },
+    "1zh5": {
+      "name": "غير محدد",
+      "status": "offline",
+      "unit": "بدون يونت",
+      "loginTime": null,
+      "money": 0,
+      "points": 0,
+      "gamesWon": 0,
+      "gamesLost": 0,
+      "achievements": [],
+      "totalVoiceTime": 0,
+      "level": 1,
+      "exp": 0
+    },
+    "1426649980155859106": {
+      "name": ".7c_305",
+      "status": "offline",
+      "unit": "بدون يونت",
+      "loginTime": null,
+      "money": 0,
+      "points": 0,
+      "gamesWon": 0,
+      "gamesLost": 0,
+      "achievements": [],
+      "totalVoiceTime": 0,
+      "level": 1,
+      "exp": 15
+    }
+  },
+  "identities": {
+    "1004948341769121803": {
+      "name": "فورست ايجن",
+      "age": "20",
+      "birthplace": "لوس",
+      "job": "مسؤول العصابات"
+    },
+    "1034494562640613426": {
+      "name": "عزف",
+      "age": "25",
+      "birthplace": "في المستشفى",
+      "job": "وزير الداخليه"
+    },
+    "1142897056411832330": {
+      "name": "مطر بن كحيلان المطيري",
+      "age": "29",
+      "birthplace": "لوس سانتوس",
+      "job": "عسكري"
+    },
+    "1348093819299561482": {
+      "name": "حمد",
+      "age": "45",
+      "birthplace": "لوس سانتس",
+      "job": "شرطه"
+    }
+  },
+  "suggestions": {
+    "sug_1763819062175": {
+      "author": "32xl",
+      "authorId": "1004948341769121803",
+      "text": "اا",
+      "createdAt": "٢٢‏/١١‏/٢٠٢٥، ١:٤٤:٢٢ م",
+      "status": "pending",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    "sug_1763820550615": {
+      "author": "32xl",
+      "authorId": "1004948341769121803",
+      "text": "ات",
+      "createdAt": "٢٢‏/١١‏/٢٠٢٥، ٢:٠٩:١٠ م",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    "sug_1763824947057": {
+      "author": "32xl",
+      "authorId": "1004948341769121803",
+      "text": "Test Developer",
+      "createdAt": "٢٢‏/١١‏/٢٠٢٥، ٣:٢٢:٢٧ م",
+      "upvotes": 1,
+      "downvotes": 0
+    },
+    "sug_1763825248537": {
+      "author": ".7c_305",
+      "authorId": "1426649980155859106",
+      "text": "ان السيرفر يكون فيه اداره كثير",
+      "createdAt": "٢٢‏/١١‏/٢٠٢٥، ٣:٢٧:٢٨ م",
+      "upvotes": 2,
+      "downvotes": 0
+    }
+  },
+  "serverStatus": "offline",
+  "serverCode": "َ",
+  "messageIds": {
+    "interior": "1441811306066743459",
+    "suggestions": "1441810985412464700",
+    "identity": "1441810662463373363",
+    "bank": "1441809062453837966",
+    "status": "1441809540923265044",
+    "games": "1441809307095011429"
+  },
+  "voiceTimers": {},
+  "gamesCooldown": {
+    "1004948341769121803": 1763824090553,
+    "1403709128387592303": 1763824557814,
+    "1231734076839428250": 1763824566841,
+    "1348093819299561482": 1763824714306
+  },
+  "achievements": {},
+  "channels": {
+    "bank": "1441521792677314732",
+    "status": "1441585717162545172",
+    "games": "1441521792677314732",
+    "identity": "1441521769910636758",
+    "interior": "1441521832992964780",
+    "suggestions": "1441810955314139309"
+  }
+}
